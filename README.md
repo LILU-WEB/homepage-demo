@@ -1,4 +1,4 @@
-# html-1
+# html-home-page
 A clone of mvrdv.com home page, include nav, scrollspy etc
 
 This is what it looks like: [Home](http://www.mvrdv.nl/).
